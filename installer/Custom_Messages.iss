@@ -59,20 +59,20 @@ ar.types_default=Default installation
 
 
 ; Bulgarian
-bg.comp_translations=Translations
-bg.msg_AskToDownNET=Subtitle Edit requires the .NET Framework 4.0. Please download and install the .NET Framework and run setup again.%n%nDo you want to download the .NET Framework 4.0 now?
-bg.msg_DeleteSettings=Do you also want to delete Subtitle Edit's settings and any custom changes you made in the dictionaries?%n%nIf you plan on reinstalling Subtitle Edit you do not have to delete them.
-bg.msg_OptimizingPerformance=Optimizing performance...
-bg.run_VisitWebsite=Visit Subtitle Edit's Website
-bg.sm_com_Changelog=Subtitle Edit's Changelog
-bg.tsk_AllUsers=For all users
-bg.tsk_CurrentUser=For the current user only
-bg.tsk_Other=Other:
-bg.tsk_ResetDictionaries=Reset Dictionaries and delete any custom names
-bg.tsk_ResetSettings=Reset Subtitle Edit's settings
-bg.tsk_SetFileTypes=Associate SubRip Text (.srt) files with Subtitle Edit
-bg.types_custom=Custom installation
-bg.types_default=Default installation
+bg.comp_translations=Локализация
+bg.msg_AskToDownNET=Subtitle Edit изисква .NET Framework 4.0. Свалете и инсталирайте .NET Framework след това стартирайте инсалаора отново.%n%nИскате ли да свалите сега .NET Framework 4.0?
+bg.msg_DeleteSettings=Искате ли да изтриете настройките на Subtitle Edit и направените от вас промени в речниците?%n%nАко смятате да преинсталирвате Subtitle Edit не е нужно да ги изтривате.
+bg.msg_OptimizingPerformance=Оптимизране на изпълнението...
+bg.run_VisitWebsite=Посетете сайта на Subtitle Edit
+bg.sm_com_Changelog=Списък с промени в Subtitle Edit
+bg.tsk_AllUsers=За всички потребители
+bg.tsk_CurrentUser=Само за този потребител
+bg.tsk_Other=Други:
+bg.tsk_ResetDictionaries=Възтановяване на речниците и изтриване на добавените имена
+bg.tsk_ResetSettings=Възтановяване настройките на Subtitle Edit
+bg.tsk_SetFileTypes=Асоциране на SubRip Text (.srt) файлове със Subtitle Edit
+bg.types_custom=Персонализирана инсталация
+bg.types_default=Основна инсталация
 
 
 ; Catalan
